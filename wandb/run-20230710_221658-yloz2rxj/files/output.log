@@ -1,0 +1,10 @@
+
+...loading and splitting data finish
+{}
+ | Global Training Round : 0 |
+[34m[1mwandb[39m[22m: [33mWARNING[39m Changes to your `wandb` environment variables will be ignored because your `wandb` session has already started. For more information on how to modify your settings with `wandb.init()` arguments, please refer to [34m[4mhttps://wandb.me/wandb-init[39m[24m.
+Exception ignored in: <function _releaseLock at 0x7f57c061a680>
+Traceback (most recent call last):
+  File "/home/LiJingZhi/.conda/envs/codenv/lib/python3.7/logging/__init__.py", line 221, in _releaseLock
+    def _releaseLock():
+KeyboardInterrupt
